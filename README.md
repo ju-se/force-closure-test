@@ -1,3 +1,3 @@
-# force-closure-test
+# force closure test with three point contacts
 
 test
