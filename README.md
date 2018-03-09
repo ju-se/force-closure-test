@@ -5,9 +5,9 @@ This Matlab software checks if a given grasp of three frictional contacts can be
 ## Input
 
 To run the software, provide three parameters:
-'''
+```
 >>is_forceclosure(H, THETA, PHI)
-'''
+```
 
 ## Output
 
