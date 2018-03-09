@@ -1,1 +1,3 @@
 # force-closure-test
+
+test
