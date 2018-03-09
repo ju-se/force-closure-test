@@ -4,7 +4,7 @@ This Matlab software checks if a given grasp of three frictional contacts can be
 
 ## Input
 
-To run the software, provide three parameters:
+To run the software, provide three parameters as command line arguments:
 ```
 >>is_forceclosure(H, THETA, PHI)
 ```
@@ -12,3 +12,4 @@ The three parameters specify the locations of the three contacts at A, B, and G 
 ![alt text](grasp.jpg "Description goes here")
 ## Output
 
+"1": Force-closure; "0": No force-closure 
