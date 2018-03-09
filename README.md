@@ -9,5 +9,6 @@ To run the software, provide three parameters:
 >>is_forceclosure(H, THETA, PHI)
 ```
 
+![alt text](grasp.jpg "Description goes here")
 ## Output
 
