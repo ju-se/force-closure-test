@@ -1,3 +1,7 @@
 # Force-closure test with three point contacts
 
-test
+This Matlab software 
+
+## Input
+
+## Output
